@@ -13,7 +13,7 @@
 ## Project Details:
 Bath & Body Works was founded in 1990 in New Albany, Ohio. The company's first store opened in a Cambridge, Massachusetts mall in September 1990.[3] In 1997, a secondary brand called Bath & Body Works at Home was launched.[2] Two years later the company launched the White Barn Candle Company, a division specializing in the sale of scented candles.[4]
 
-The project has been completed within the duration of 5 days. Each of us had shared work and responsibilities and learnt a lot during the course of this project.
+The project has been completed within the duration of 5 days. Each of us had shared work and responsibilities and learnt a lot during the course of this project
 
 **Original website link**: https://www.bathandbodyworks.in/
 
